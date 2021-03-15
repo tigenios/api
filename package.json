@@ -1,0 +1,26 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev" : "npx ./node_modules/nodemon/bin/nodemon.js app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tigenios/api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tigenios/api/issues"
+  },
+  "homepage": "https://github.com/tigenios/api#readme",
+  "description": ""
+}
