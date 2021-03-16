@@ -13,6 +13,7 @@ html, body{
 }
 
 
+
 .left-side{
     /* display: inline-block;
     height: 100vh; */
@@ -36,4 +37,17 @@ html, body{
     color: steelblue;
     font-size: 1rem;
     align-items: center;
+}
+
+
+.info-box h2{
+    background: grey;
+    color: steelblue;
+    font-size: 1rem;
+    align-items: center;
+}
+.info-box p{
+
+    font-size: 7rem;
+  padding: 4px; 
 }
