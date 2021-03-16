@@ -1,0 +1,39 @@
+
+html, body{
+    height: 100vh; 
+    margin: 0;
+}
+
+
+
+.left-side,
+.rigth-side{
+    display: inline-block;
+    height: 100vh;
+}
+
+
+.left-side{
+    /* display: inline-block;
+    height: 100vh; */
+    background: cadetblue;
+    width: 30%;
+    max-width: 150px;
+    padding: 15px;
+}
+
+
+.avatar{
+    /* display: block; */
+    width: 100px;
+    height: 100px;
+    margin:35px auto;
+    border-radius: 50%;
+}
+
+.h2{
+    background: grey;
+    color: steelblue;
+    font-size: 1rem;
+    align-items: center;
+}
